@@ -1,0 +1,20 @@
+.country{
+    border: 2px solid rgb(143, 227, 17);
+    margin: 15px;
+    padding: 10px;
+    border-radius: 10px;
+    min-width:100px;
+
+}
+
+.image-box{
+    width: 100px;
+
+}
+
+.visited{
+    border: 2px solid rgb(143, 227, 17);
+}
+.non-visted{
+    border: 2px solid rgb(255, 0, 0);
+}
